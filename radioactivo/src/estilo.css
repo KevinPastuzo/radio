@@ -1,0 +1,12 @@
+.contenedor{
+    display: flex ;
+    justify-content: space-evenly;
+}
+
+.caja{
+    width: 30%;
+    background-color: beige;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
